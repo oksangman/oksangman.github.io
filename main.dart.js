@@ -59476,7 +59476,7 @@ r=$.c4
 if(r==null)r=$.c4=B.ac
 r.IK(0,s,!1,p,t.UR)
 s=t.F
-return new A.vD(new A.rn(B.K8,new A.K4(p,p,1/0,56),p),A.alM(A.b([B.G6,A.jJ(p,new A.oD(new A.a0T(q),p),p,p,p,p,B.lz,p),A.jJ(p,A.a8R(A.b([A.a8f(A.a8b(B.K7,new A.a0U(q)),4),B.tS,A.a8f(A.a8b(A.a8R(B.AY,B.dk,B.Dc,B.dW),new A.a0V(q)),1),B.tS,A.a8f(A.a8b(B.K9,new A.a0W(q)),4)],s),B.dk,B.fu,B.dW),p,p,p,p,B.z1,p),A.jJ(p,new A.oD(new A.a0X(q),p),p,p,p,p,B.lz,p),q.a_n()],s),B.fu,B.dW),p)}}
+return new A.vD(new A.rn(B.K7,new A.K4(p,p,1/0,56),p),A.alM(A.b([B.G6,A.jJ(p,new A.oD(new A.a0T(q),p),p,p,p,p,B.lz,p),A.jJ(p,A.a8R(A.b([A.a8f(A.a8b(B.K8,new A.a0U(q)),4),B.tS,A.a8f(A.a8b(A.a8R(B.AY,B.dk,B.Dc,B.dW),new A.a0V(q)),1),B.tS,A.a8f(A.a8b(B.K9,new A.a0W(q)),4)],s),B.dk,B.fu,B.dW),p,p,p,p,B.z1,p),A.jJ(p,new A.oD(new A.a0X(q),p),p,p,p,p,B.lz,p),q.a_n()],s),B.fu,B.dW),p)}}
 A.a0S.prototype={
 $1(a){var s,r=document.createElement("iframe")
 r.width="320"
@@ -63476,7 +63476,7 @@ B.G4=new A.T(1/0,1/0)
 B.k6=new A.hZ(0,0,null,null)
 B.tS=new A.hZ(5,null,null,null)
 B.zm=new A.tP(null)
-B.G5=new A.hZ(330,100,B.zm,null)
+B.G5=new A.hZ(320,100,B.zm,null)
 B.G6=new A.hZ(null,10,null,null)
 B.bF=new A.hZ(null,null,null,null)
 B.G7=new A.w0(null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
@@ -63763,9 +63763,9 @@ B.Jf=new A.m(!0,B.l,null,".SF UI Text",null,null,null,null,null,null,null,null,n
 B.HJ=new A.m(!0,B.l,null,".SF UI Text",null,null,null,null,null,null,null,null,null,null,null,null,null,B.h,null,null,null,"whiteCupertino labelSmall",null,null,null)
 B.K6=new A.dt(B.H9,B.IP,B.J1,B.JH,B.Io,B.Hw,B.IW,B.Ir,B.Iz,B.Jp,B.HG,B.JM,B.Ij,B.Jf,B.HJ)
 B.ub=new A.wq(1,"longestLine")
-B.K7=new A.kD("Encode",null,null,null,null,null,null,null,null)
 B.Jl=new A.m(!0,null,null,null,null,null,50,B.bU,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.K8=new A.kD("Base64 - Converter",null,B.Jl,null,null,null,null,null,null)
+B.K7=new A.kD("Base64 Converter",null,B.Jl,null,null,null,null,null,null)
+B.K8=new A.kD("Encode",null,null,null,null,null,null,null,null)
 B.K9=new A.kD("Decode",null,null,null,null,null,null,null,null)
 B.uc=new A.wr(0,"system")
 B.Ka=new A.wr(2,"dark")
